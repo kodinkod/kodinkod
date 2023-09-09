@@ -4,6 +4,10 @@
 - 🔭 I’m currently working on Computer Vision projects in the team.
 - 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
 
+#### My experience🤓
+ - intern ML engineer - now
+ - Full Stack developer php, Postgresql, js. 1 year
+
 <!--
 **kodinkod/kodinkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
