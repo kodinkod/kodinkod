@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Computer Vision projects in the team.
-- 🌱 I’m currently learning Econometrics, Сryptography and neutron networks.
+- 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
 
 <!--
 **kodinkod/kodinkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
