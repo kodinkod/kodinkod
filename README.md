@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Computer Vision projects in the team.
 - 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
 
-### My experience 🤓
+### My experience 💡
  - intern ML engineer - now (Computer Vision)
  - Full Stack developer php, Postgresql, js. 1 year
 
