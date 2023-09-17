@@ -22,7 +22,7 @@ SFEDU, Mathematics Mechanics and Computer Science - applied mathematics and comp
 - Logistic regression with your own hands [notebook](https://github.com/kodinkod/data_analasys/blob/main/linear_models_hand_made/linear_models.ipynb)
 - digit_recognition - Example of digit recognition, comparison of uniform and Xavier on MNIST [notebook](https://github.com/kodinkod/data_analasys/blob/main/digit_recognition_xav_uni/main.ipynb)
 - Simpsons Recognition Solution with kaggle [notebooks](https://github.com/kodinkod/data_analasys/tree/main/simsons_kaggle)
-- Predictions of the outflow of caggl users [notebook](https://github.com/kodinkod/data_analasys/tree/main/Prediction_of_user_churn)
+- Predictions of customer churn, kaggle [notebook](https://github.com/kodinkod/data_analasys/tree/main/Prediction_of_user_churn)
 - Example with normalization before non-linearity, after and without. Comparison of results, graphs. On MNIST [notebook](https://github.com/kodinkod/data_analasys/blob/main/normalization/main.ipynb)
 - titanic dataset [notebook](https://github.com/kodinkod/data_analasys/blob/main/titanic/pipline.ipynb)
 
