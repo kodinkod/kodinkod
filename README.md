@@ -1,5 +1,6 @@
 ### Hi there, I'm Denis Kodin 👋
 
+- 📘 to be later
 - 🔭 I’m currently working on Computer Vision projects in the team.
 - 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
 
