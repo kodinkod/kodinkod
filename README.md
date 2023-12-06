@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
 
 ### My experience 💡
- - intern ML engineer - now (Computer Vision)
+ - intert RnD CV
+ - intern ML engineer 
  - Full Stack developer php, Postgresql, js. 1 year
 
 ### Education 📘
