@@ -1,12 +1,8 @@
 ### Hi there, I'm Denis Kodin 👋
 
-- 📘 to be later
-- 🔭 I’m currently working on Computer Vision projects in the team.
-- 🌱 I’m currently learning Econometrics, Сryptography and neural networks.
-
 ### My experience 💡
  - intern RnD CV
- - intern ML engineer 
+ - ML engineer CV AgroTech
  - Full Stack developer php, Postgresql, js. 1 year
 
 ### Education 📘
@@ -14,7 +10,6 @@ SFEDU, Mathematics Mechanics and Computer Science - applied mathematics and comp
 
 
 ### Projects | mathematics 🛠️
-
 - Autoregressive_model [notebook](https://github.com/kodinkod/Econometrics/blob/main/Autoregressive_model/main.ipynb)
 - Methods for generating normal random variables [notebook](https://github.com/kodinkod/Econometrics/blob/main/Investigation_of_generators_of_normal_random_variables/gen_random.ipynb)
 
