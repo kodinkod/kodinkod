@@ -1,7 +1,8 @@
 ### Hi there, I'm Denis Kodin - intern RnD CV👋
+interests: gen AI, CV, KG, NLP
 
 ### My experience 💡
- - intern RnD CV, Tlab
+ - intern RnD CV, Tlab [now]
  - RnD CV in AgroTech startup 
  - Full Stack developer php, Postgresql, js. 1 year
 
